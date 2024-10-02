@@ -9,25 +9,25 @@ namespace Tyuiu.BaimuhametovaMD.Sprint2.Task5.V3.Lib
             switch (value)
             {
                 case 1:
-                    return "Понедельник";
+                    return "понедельник";
                     break;
                 case 2:
-                    return "Вторник";
+                    return "вторник";
                     break;
                 case 3:
-                    return "Среда";
+                    return "среда";
                     break;
                 case 4:
-                    return "Четверг";
+                    return "четверг";
                     break;
                 case 5:
-                    return "Пятница";
+                    return "пятница";
                     break;
                 case 6:
-                    return "Суббота";
+                    return "суббота";
                     break;
                 case 7:
-                    return "Воскресенье";
+                    return "воскресенье";
                     break;
                 default: return "Дня с таким номером не существует";
             }
